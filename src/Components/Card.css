@@ -1,0 +1,20 @@
+.card{
+  text-align: center;
+  font-size: 20px;
+  border: 3px solid black;
+  border-radius: 20px;
+  height: 550px;
+  width: 610px;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  align-items: center;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+  margin-bottom:50px ;
+}
